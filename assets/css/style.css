@@ -8,7 +8,6 @@ nav {
 .marca-tamaño {
   font-size: 40px;
 }
-
 .hero-section {
   background-image: url('../img/bg_hero.png');
   background-repeat: no-repeat;
@@ -49,4 +48,12 @@ nav {
 .line2 {
   width: 130px;
   background: white;
+}
+.contacto {
+  font-family: "Oswald", Bold;
+}
+.final {
+  font-family: "Oswald", Bold;
+  font-size: 50px;
+  background-color: #660066;
 }
