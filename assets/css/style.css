@@ -1,0 +1,52 @@
+nav {
+  background-color: #660066;
+}
+
+.marca {
+  font-family: 'Lobster', cursive;
+}
+.marca-tamaño {
+  font-size: 40px;
+}
+
+.hero-section {
+  background-image: url('../img/bg_hero.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cabecera {
+  padding-top: 500px;
+}
+.presentacion {
+  font-family: 'Open Sans', semi-bold;
+}
+.presentacion-tamaño {
+  font-size: 35px;
+}
+.texto {
+  font-family: 'Open Sans', regular;
+}
+.texto-tamaño {
+  font-size: 16px;
+}
+.experiencia {
+  font-family: "Oswald", Bold;
+}
+.experiencia-tamaño{
+  font-size: 52px;
+}
+.mis_trabajos {
+  font-family: "Oswald", Bold;
+  background-color: #660066;
+}
+.trabajos-tamaño {
+  font-size: 52px;
+}
+.line {
+  width: 130px;
+  background: black;
+}
+.line2 {
+  width: 130px;
+  background: white;
+}
