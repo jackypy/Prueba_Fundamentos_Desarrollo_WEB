@@ -12,6 +12,7 @@ nav {
   background-image: url('../img/bg_hero.png');
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
 }
 .cabecera {
   padding-top: 500px;
@@ -31,7 +32,7 @@ nav {
 .experiencia {
   font-family: "Oswald", Bold;
 }
-.experiencia-tamaño{
+.experiencia-6{
   font-size: 52px;
 }
 .mis_trabajos {
@@ -56,4 +57,8 @@ nav {
   font-family: "Oswald", Bold;
   font-size: 50px;
   background-color: #660066;
+}
+.logo img{
+  width: 25%;
+  margin: 2em;
 }
